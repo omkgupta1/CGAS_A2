@@ -1,0 +1,21 @@
+Rank,Itemset,Size,Support_Count,Support
+1,garlic | olive oil | onion,3,335,0.03354024829795755
+2,garlic | lemon | olive oil,3,330,0.03303964757709251
+3,butter | eggs | plain flour,3,220,0.022026431718061675
+4,garlic | olive oil | parmesan,3,214,0.021425710853023628
+5,baking powder | eggs | plain flour,3,198,0.019823788546255508
+6,garlic | olive oil | parsley,3,189,0.018922707248698437
+7,butter | eggs | golden caster sugar,3,186,0.018622346816179414
+8,butter | eggs | self-raising flour,3,184,0.0184221065278334
+9,butter | eggs | icing sugar,3,182,0.018221866239487385
+10,eggs | icing sugar | self-raising flour,3,179,0.01792150580696836
+11,baking powder | butter | eggs,3,178,0.017821385662795355
+12,butter | eggs | vanilla extract,3,171,0.017120544653584303
+13,eggs | golden caster sugar | icing sugar,3,171,0.017120544653584303
+14,eggs | icing sugar | vanilla extract,3,170,0.017020424509411294
+15,garlic | olive oil | tomato purée,3,170,0.017020424509411294
+16,baking powder | eggs | icing sugar,3,166,0.016619943932719265
+17,butter | eggs | milk,3,163,0.01631958350020024
+18,eggs | golden caster sugar | self-raising flour,3,161,0.016119343211854226
+19,baking powder | eggs | self-raising flour,3,158,0.015818982779335203
+20,baking powder | eggs | vanilla extract,3,158,0.015818982779335203
